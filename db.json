@@ -1,17 +1,19 @@
-[
-  {
-    id: 1,
-    name: "john",
-    age: 21
-  },
-  {
-    id: 2,
-    name: "janny",
-    age: 53
-  },
-  {
-    id: 3,
-    name: "thania",
-    age: 26
-  }
-];
+{
+    "profiles": [
+    {
+      id: 1,
+      name: "john",
+      age: 21
+    },
+    {
+      id: 2,
+      name: "janny",
+      age: 53
+    },
+    {
+      id: 3,
+      name: "thania",
+      age: 26
+    }
+  ];
+}
